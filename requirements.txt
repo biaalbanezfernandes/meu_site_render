@@ -1,0 +1,6 @@
+flask
+gunicorn
+pytesseract
+Pillow
+requests
+gTTS
